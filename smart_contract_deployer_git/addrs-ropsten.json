@@ -1,0 +1,18 @@
+[
+    {
+        "symbol": "endpoint",
+        "addr": "https://ropsten.infura.io/v3/4e526ffa97184eb7bd12cfda24c50946"
+    },
+    {
+        "symbol": "hJPYb",
+        "addr": "0x19B14FC139aFB64d6f697aAdaC99Ae4a11110f2c"
+    },
+    {
+        "symbol": "hHTb",
+        "addr": "0xa7535a95451a974902C7FEa2348517f3dcaEc446"
+    },
+    {
+        "symbol": "hKRWb",
+        "addr": "0x8E814D1B7BdAC55Af8A1FE6bA7F73738f346bC16"
+    }
+]

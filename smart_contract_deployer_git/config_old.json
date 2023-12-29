@@ -1,0 +1,33 @@
+{
+	"endpoint": "https://http-mainnet.hecochain.com",
+	"token_info": {
+		"def_isupply": "1000000000000000000000000000",
+		"name_pat": "Beyond %s Token",
+		"tokens": {
+			"hAAPLb": {},
+			"hAMZNb": {},
+			"hAUDb": {},
+			"hBCHb": {},
+			"hBTCb": {},
+			"hCHFb": {},
+			"hCNYb": {},
+			"hETHb": {},
+			"hEURb": {},
+			"hGBPb": {},
+			"hGOOGLb": {},
+			"hHTb": {},
+			"hJPYb": {"isupply": "100000000000000000000000000000"},
+			"hKRWb": {"isupply": "1000000000000000000000000000000"},
+			"hLINKb": {},
+			"hLTCb": {},
+			"hNFLXb": {},
+			"hTSLAb": {},
+			"hUNIb": {},
+			"hUSDb": {},
+			"hWTIb": {},
+			"hXAGb": {},
+			"hXAUb": {},
+			"hXRPb": {}
+		}
+	}
+}

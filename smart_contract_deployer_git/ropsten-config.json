@@ -1,0 +1,12 @@
+{
+	"endpoint": "https://ropsten.infura.io/v3/4e526ffa97184eb7bd12cfda24c50946",
+	"token_info": {
+		"def_isupply": "1000000000000000000000000000",
+		"name_pat": "Beyond test %s Token",
+		"tokens": {
+			"hHTb": {},
+			"hJPYb": {"isupply": "100000000000000000000000000000"},
+			"hKRWb": {"isupply": "1000000000000000000000000000000"}
+		}
+	}
+}

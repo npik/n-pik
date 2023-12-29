@@ -1,0 +1,102 @@
+[
+    {
+        "symbol": "endpoint",
+        "addr": "https://api.zan.top/node/v1/eth/goerli/public"
+    },
+    {
+        "symbol": "hAAPLb",
+        "addr": "0x692bC91A2c25184f6e9aEf5db2398D259916681A"
+    },
+    {
+        "symbol": "hAMZNb",
+        "addr": "0x82574dE7B64F688faC9821EAC7bfA31231990b6e"
+    },
+    {
+        "symbol": "hCHFb",
+        "addr": "0xcE08E561a817e51895e910A1C22700705d002f11"
+    },
+    {
+        "symbol": "hNFLXb",
+        "addr": "0x052D466A15ec9d8a294F19C45aE113D28759F492"
+    },
+    {
+        "symbol": "hCNYb",
+        "addr": "0xcD1a9469567058e0f1aC9DAA27847580EDBCbbd9"
+    },
+    {
+        "symbol": "hLINKb",
+        "addr": "0x3EDE8969cf70F4ff4E25b6173F0099298163a626"
+    },
+    {
+        "symbol": "hXAUb",
+        "addr": "0xf32740b5dd98514f94B85C966A9e96c0A836D6F4"
+    },
+    {
+        "symbol": "hEURb",
+        "addr": "0x9A2E4fB7315763CBf3142b04175737DE60DF157d"
+    },
+    {
+        "symbol": "hUNIb",
+        "addr": "0xC08ccC5f487F77914Fb892940E8E7524C891169D"
+    },
+    {
+        "symbol": "hGBPb",
+        "addr": "0x56D79723106f443a4525c0151e27472c8Fb9E739"
+    },
+    {
+        "symbol": "hAUDb",
+        "addr": "0x28473eE9D173906CE131e664bf0f7ff0824998bd"
+    },
+    {
+        "symbol": "hTSLAb",
+        "addr": "0x7b14AD0f8Cb390B11A3DAf4b50C5A8728852b971"
+    },
+    {
+        "symbol": "hGOOGLb",
+        "addr": "0x736a58402cBef7Ad8af2F84c202eF05348D1FcB6"
+    },
+    {
+        "symbol": "hXRPb",
+        "addr": "0xDB84AC6EfD6a35285E39C5e3704b83035710182B"
+    },
+    {
+        "symbol": "hJPYb",
+        "addr": "0x70c9C7B2F605754a446782039E80f72d7D8872b7"
+    },
+    {
+        "symbol": "hWTIb",
+        "addr": "0xc3625bc498230b9e0c611034dD123E3D43851B6c"
+    },
+    {
+        "symbol": "hKRWb",
+        "addr": "0x506A752a58e85a313b2C929FA0a760747fD16b55"
+    },
+    {
+        "symbol": "hETHb",
+        "addr": "0x2fe6a4059a49fAF98bD021dd355bbe5EaA54095B"
+    },
+    {
+        "symbol": "hUSDb",
+        "addr": "0x676a6181071303a7Efd3f52ee9D1Ad78f3615880"
+    },
+    {
+        "symbol": "hLTCb",
+        "addr": "0x6616F731dd14269855FBD79FF60F2B3cA81664cD"
+    },
+    {
+        "symbol": "hHTb",
+        "addr": "0xB2dD6e9F9a01FbB2B34cE8ee69eD19A5066DacE7"
+    },
+    {
+        "symbol": "hXAGb",
+        "addr": "0x93F8FC1EF58C13658c261F8A54C765B3a28Cd377"
+    },
+    {
+        "symbol": "hBCHb",
+        "addr": "0x1785B2a6b7FaA13C790480e258b5BB9f0cd1546F"
+    },
+    {
+        "symbol": "hBTCb",
+        "addr": "0x11444b54E3292660535a86CBc8eE797821223083"
+    }
+]

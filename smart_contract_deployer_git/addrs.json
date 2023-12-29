@@ -1,0 +1,10 @@
+[
+    {
+        "symbol": "endpoint",
+        "addr": "https://rpc.ankr.com/eth_goerli"
+    },
+    {
+        "symbol": "PIK",
+        "addr": "0xC828D5A6cafE06de3F72CF97C9339430A323B211"
+    }
+]

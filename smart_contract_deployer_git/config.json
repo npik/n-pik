@@ -1,0 +1,11 @@
+{
+	"endpoint": "https://rpc.ankr.com/eth_goerli",
+	"endpoint_old": "https://mainnet.infura.io/v3/026d32ebc9534f68bfe6fb94fc82e10a",
+	"token_info": {
+		"def_isupply": "381250000",
+		"name_pat": "Beyond %s Token",
+		"tokens": {
+			"PLYP": {"isupply": "381250000", "name": "Play PIK Token"}
+		}
+	}
+}

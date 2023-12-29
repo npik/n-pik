@@ -1,0 +1,29 @@
+{
+  "name": "smart_contract_deployer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunnyFig/smart_contract_deployer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FunnyFig/smart_contract_deployer/issues"
+  },
+  "homepage": "https://github.com/FunnyFig/smart_contract_deployer#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "@ethersproject/experimental": "^5.5.0",
+    "@openzeppelin/contracts": "^4.5.0",
+    "ethers": "^5.7.2",
+    "password-prompt": "^1.1.2"
+  }
+}
